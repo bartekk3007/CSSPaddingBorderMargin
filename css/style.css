@@ -1,0 +1,28 @@
+p{color: royalblue;}
+
+.basic-information{font-size: 20px}
+
+#history{font-weight: bold;}
+
+p strong{color: red;}
+
+a:link {color: purple;}
+a:visited {color: green;}
+a:hover{color: gold;}
+a:focus {color: saddlebrown;}
+a:active {color: red;}
+
+u:hover {color: gold;}
+u:focus {color: saddlebrown;}
+u:active {color: red;}
+
+body p:first-child {font-weight: bold;}
+
+p::first-letter{color: gold;}
+
+::selection {
+    background: skyblue;
+    color: black;
+}
+
+mark {background: orangered;}
